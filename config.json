@@ -1,0 +1,7 @@
+{
+    "source_repo_url": "https://github.com/source_account/source_repo.git",
+    "clone_path": "/path/to/clone/source_repo",
+    "target_repo_url": "https://github.com/target_account/target_repo.git",
+    "target_username": "your_target_username",
+    "target_token": "your_personal_access_token"
+}
