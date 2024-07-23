@@ -1,7 +1,35 @@
-{
-    "source_repo_url": "https://github.com/source_account/source_repo.git",
-    "clone_path": "/path/to/clone/source_repo",
-    "target_repo_url": "https://github.com/target_account/target_repo.git",
-    "target_username": "your_target_username",
-    "target_token": "your_personal_access_token"
-}
+config = [
+  {
+    "ProjectName": "XP_ORG",
+    "src_repo_url": "https://xprize.visualstudio.com/XP/_git/XPRIZE_ORG",
+    "dest_repo_url": "https://github.com/Project-XP/XP_ORG.git",
+    "clone_path": "C:\\Users\\Osama.Mansour\\Desktop\\Deployments\\src\\XP_ORG",
+    "src_username": "Osama.Mansour",
+    "src_password": "4nvpfwuegyv4yggbvpr2ddaaptwadzsdbcw5nfzyjsvrljgkg7ta",
+    "src_branchName": "Development",
+    "dest_username": "oamatic",
+    "dest_token": "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"
+  }, 
+  {
+    "ProjectName": "POP",
+    "src_repo_url": "https://xprize.visualstudio.com/XP/_git/POP",
+    "dest_repo_url": "https://github.com/Project-XP/POP",
+    "clone_path": "C:\\Users\\Osama.Mansour\\Desktop\\Deployments\\src\\POP",
+    "src_username": "Osama.Mansour",
+    "src_password": "4nvpfwuegyv4yggbvpr2ddaaptwadzsdbcw5nfzyjsvrljgkg7ta",
+    "src_branchName": "Development",
+    "dest_username": "oamatic",
+    "dest_token": "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"
+  }, 
+  {
+    "ProjectName": "POP_ADMIN",
+    "src_repo_url": "https://xprize.visualstudio.com/XP/_git/POP-Admin",
+    "dest_repo_url": "https://github.com/Project-XP/POP_ADMIN",
+    "clone_path": "C:\\Users\\Osama.Mansour\\Desktop\\Deployments\\src\\POP_ADMIN",
+    "src_username": "Osama.Mansour",
+    "src_password": "4nvpfwuegyv4yggbvpr2ddaaptwadzsdbcw5nfzyjsvrljgkg7ta",
+    "src_branchName": "Development",
+    "dest_username": "oamatic",
+    "dest_token": "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"
+  }, 
+]
