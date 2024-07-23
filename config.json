@@ -1,4 +1,4 @@
-config = [
+[
   {
     "ProjectName": "XP_ORG",
     "src_repo_url": "https://xprize.visualstudio.com/XP/_git/XPRIZE_ORG",
